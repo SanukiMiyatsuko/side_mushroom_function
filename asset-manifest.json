@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/side_mushroom_function/static/css/main.3a1b71c5.css",
-    "main.js": "/side_mushroom_function/static/js/main.513260e4.js",
+    "main.js": "/side_mushroom_function/static/js/main.348682ca.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/side_mushroom_function/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/side_mushroom_function/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
     "static/media/KaTeX_Main-Bold.ttf": "/side_mushroom_function/static/media/KaTeX_Main-Bold.8169508bf58f8bd92ad8.ttf",
@@ -64,10 +64,10 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/side_mushroom_function/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/side_mushroom_function/index.html",
     "main.3a1b71c5.css.map": "/side_mushroom_function/static/css/main.3a1b71c5.css.map",
-    "main.513260e4.js.map": "/side_mushroom_function/static/js/main.513260e4.js.map"
+    "main.348682ca.js.map": "/side_mushroom_function/static/js/main.348682ca.js.map"
   },
   "entrypoints": [
     "static/css/main.3a1b71c5.css",
-    "static/js/main.513260e4.js"
+    "static/js/main.348682ca.js"
   ]
 }
